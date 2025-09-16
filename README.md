@@ -1,2 +1,0 @@
-# anus
-learning github
